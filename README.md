@@ -1,1 +1,1 @@
-# sympomotion
+# SympoMotion
